@@ -1,6 +1,6 @@
 # Simple ToDo list app
 
-Simple Todo list built TypeScript
+Simple Todo list built with TypeScript
 
 ## Available Scripts
 
