@@ -1,6 +1,6 @@
-# New Project
+# Simple ToDo list app
 
-> ✨ Bootstrapped with Create Snowpack App (CSA).
+Simple Todo list built TypeScript
 
 ## Available Scripts
 
