@@ -88,6 +88,9 @@ docker-compose.local.yml
 !.vscode/launch.json
 !.vscode/extensions.json
 
+# IDE - Webstorm
+.idea
+
 # misc
 /.sass-cache
 /connect.lock
